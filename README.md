@@ -48,19 +48,19 @@ This project consists of three main components that assist users in their job se
 
 ### Resume Polisher
 ```
-python resume_polisher/resume_polisher.py
+python resume_polisher.py
 ```
 Input your position name, resume content, and optional polishing instructions to receive tailored improvements.
 
 ### Cover Letter Generator
 ```
-python cover_letter/cover_letter.py
+python cover_letter.py
 ```
 Enter company name, position name, job description, and resume content to generate a customized cover letter.
 
 ### Career Advisor
 ```
-python career_advisor/career_advisor.py
+python career_advisor.py
 ```
 Provide the position applied for, job description, and your resume for specific improvement suggestions.
 
