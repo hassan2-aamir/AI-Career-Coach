@@ -29,7 +29,7 @@ This project consists of three main components that assist users in their job se
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/ai-career-coach.git
+    git clone https://github.com/hassan2-aamir/ai-career-coach.git
     cd ai-career-coach
     ```
 
