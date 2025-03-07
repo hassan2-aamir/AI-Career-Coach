@@ -68,6 +68,3 @@ Provide the position applied for, job description, and your resume for specific 
 
 This application processes personal resume information. All data is processed through IBM watsonx and is subject to their privacy policy.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
